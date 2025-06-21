@@ -112,7 +112,7 @@ The allotted time for the CompTIA SecurityX (CAS-005) exam is 165 minutes. This 
 
 Embarking on the journey to achieve your SecurityX Certification is a significant commitment, but the rewards, both in terms of professional recognition and personal satisfaction, are immense. By understanding the exam, creating a strategic study plan, and leveraging high-quality resources like the practice exams from Edusum, you can approach exam day with the confidence and knowledge needed to succeed. This certification is more than just a piece of paper; it's a validation of your expertise and a key that can unlock new opportunities in the exciting and critical field of cybersecurity.
 
-**Are you prepared to elevate your cybersecurity expertise?** 
+### **Are you prepared to elevate your cybersecurity expertise?** 
 
 CompTIA offers a variety of SecurityX exam training options designed to suit your unique learning style and schedule — with flexible combinations to support your preparation journey.
 
